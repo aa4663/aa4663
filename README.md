@@ -40,9 +40,6 @@ I am a Software developer,web developer & designer.
     </td><td align="center" width="96">
       <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="48" height="48"/> </a>
       <br>Bootstrap
-    </td><td align="center" width="96">
-      <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angularjs" width="48" height="48"/> </a>
-      <br>AngularJs
     </td>
 </tr>
 
